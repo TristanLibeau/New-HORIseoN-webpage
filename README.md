@@ -1,4 +1,3 @@
-# Tristan-Libeau-Homework-1
 FOR FUTURE CHANGES
 
 If you need to make some changes on the New horiseon web page:
