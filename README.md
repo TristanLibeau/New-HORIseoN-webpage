@@ -29,3 +29,5 @@ WHEN YOU ARE DONE
         -git commit -m "add message" (you do need to add a message)
         -git push
     -When you are done all your changes should be uploaded and live on the webpage
+
+    Always remember to keep your code clean and organise!!!
