@@ -1,5 +1,7 @@
 FOR FUTURE CHANGES
 
+To make it easier for anyone that would like to chane the design of the code using the CSS file, i Hve commented it on every section
+
 If you need to make some changes on the New horiseon web page:
 
     -First dowload the repository on you pc using the command  on GitBash  "git clone" using the URL.
